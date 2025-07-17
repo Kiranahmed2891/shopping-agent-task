@@ -1,0 +1,17 @@
+# 💡 Don't upload API keys or secrets
+.env
+
+# 🔧 Python cache and compiled files
+__pycache__/
+*.pyc
+
+# 📦 Virtual environment folders (optional)
+venv/
+env/
+
+# 📂 OS-specific files
+.DS_Store  # macOS
+Thumbs.db  # Windows
+
+# 🔗 VS Code settings (optional)
+.vscode/
